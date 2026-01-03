@@ -24,7 +24,11 @@ Fikirleri koda dönüştürmeyi ve sistemleri optimize etmeyi seviyorum. Hem ark
 
 ### 🛰️ İstatistikler
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheNikeHades0&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=BF40BF&text_color=C9D1D9&icon_color=BF40BF&border_color=30363D" alt="TheNikeHades0 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheNikeHades0&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=BF40BF&text_color=C9D1D9&icon_color=BF40BF&border_color=30363D" alt="Hades Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNikeHades0&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=BF40BF&text_color=C9D1D9&border_color=30363D" alt="Hades Langs" />
 </p>
 
 ---
