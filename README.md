@@ -4,16 +4,16 @@
   <img src="https://raw.githubusercontent.com/TheNikeHades0/TheNikeHades0/main/banner.jpg" alt="TheNikeHades Banner" width="100%">
 </p>
 
-### 🌌 Yazılım & Geliştirme
-Fikirleri koda dönüştürmeyi ve sistemleri optimize etmeyi seviyorum. Hem arka plan mantığı (Backend) hem de görsel sunum (Frontend) üzerinde çalışarak dengeli ve performanslı projeler üretiyorum.
+### 🌌 Software & Development
+I enjoy turning ideas into code and optimizing complex systems. By working on both backend logic and frontend presentation, I build balanced and high-performance projects.
 
-- **Diller:** Java ve Python ile işlevsel çözümler, HTML & CSS ile modern tasarımlar.
-- **Odak Noktam:** Temiz kod yazımı, stabil otomasyonlar ve kullanıcı deneyimi.
-- **Şu An:** Mevcut projelerimi en kararlı (stable) hallerine getiriyorum.
+- **Languages:** Functional solutions with Java and Python, modern designs with HTML & CSS.
+- **My Focus:** Clean code architecture, stable automations, and seamless user experience.
+- **Current Status:** Bringing my existing projects to their most stable versions.
 
 ---
 
-### 🛠️ Yetenek Seti
+### 🛠️ Skill Set
 <p align="left">
   <img src="https://img.shields.io/badge/JAVA-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=BF40BF" />
   <img src="https://img.shields.io/badge/PYTHON-%23000000.svg?style=for-the-badge&logo=python&logoColor=BF40BF" />
@@ -25,6 +25,6 @@ Fikirleri koda dönüştürmeyi ve sistemleri optimize etmeyi seviyorum. Hem ark
 ---
 
 <p align="center">
-  <i>"Karmaşıklığı sadelikle çözmek, en büyük yetenektir."</i><br>
+  <i>"Solving complexity with simplicity is the greatest talent."</i><br>
   <b>🔱 TheNikeHades | Hades Realm 🔱</b>
 </p>
