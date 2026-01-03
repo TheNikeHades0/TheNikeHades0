@@ -1,7 +1,7 @@
 # 🔱 [ TheNikeHades ]
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheNikeHades0/TheNikeHades0/main/banner.jpeg" alt="TheNikeHades Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/TheNikeHades0/TheNikeHades0/main/banner.jpg" alt="TheNikeHades Banner" width="100%">
 </p>
 
 ### 🌌 Yazılım & Geliştirme
