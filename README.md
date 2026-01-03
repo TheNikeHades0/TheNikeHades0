@@ -22,13 +22,17 @@ Fikirleri koda dönüştürmeyi ve sistemleri optimize etmeyi seviyorum. Hem ark
   <img src="https://img.shields.io/badge/GIT-%23000000.svg?style=for-the-badge&logo=git&logoColor=BF40BF" />
 </p>
 
-### 🛰️ İstatistikler
+### 🛰️ İstatistikler & Aktivite
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheNikeHades0&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=BF40BF&text_color=C9D1D9&icon_color=BF40BF&border_color=30363D" alt="Hades Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheNikeHades0&show_icons=true&theme=dark&title_color=BF40BF&text_color=ffffff&icon_color=BF40BF&border_color=30363D" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNikeHades0&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=BF40BF&text_color=C9D1D9&border_color=30363D" alt="Hades Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNikeHades0&theme=dark&background=0D1117&ring=BF40BF&fire=BF40BF&currStreakLabel=BF40BF" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNikeHades0&layout=compact&theme=dark&title_color=BF40BF&text_color=ffffff&border_color=30363D" alt="Langs" />
 </p>
 
 ---
